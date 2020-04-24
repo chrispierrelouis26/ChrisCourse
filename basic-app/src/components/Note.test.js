@@ -14,3 +14,4 @@ describe("Note", () => {
     expect(note.find("p").text()).toEqual(props.note.text);
   });
 });
+  
